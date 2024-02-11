@@ -1,4 +1,8 @@
-## Fine-tuned Llama-2 usage
+## Fine-tuned Llama-2 for MECPE task
+
+This repository contains the code for the task of Multimodal Emotion-Cause Pair Extraction (MECPE) using fine-tuned Llama-2 13b model. The task is to predict the emotion of each utterance in a given conversation (one of [Ekman's seven emotions](https://www.paulekman.com/universal-emotions/)) while also extracting the causes of that utterance from that conversation. 
+
+#### Usage
 
 It is recommended to start by creating a new virtual environment and installing all the dependencies for the project in it.
 
